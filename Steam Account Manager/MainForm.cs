@@ -228,5 +228,16 @@ namespace Steam_Account_Manager
                 UpdateAccountList();
             }
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void bnt_show_pws_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = accountList[AccountListBox.SelectedIndex].username + "     " +
+                    accountList[AccountListBox.SelectedIndex].password;
+        }
     }
 }
