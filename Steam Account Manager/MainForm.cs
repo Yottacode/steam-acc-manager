@@ -162,11 +162,7 @@ namespace Steam_Account_Manager
             }
         }
 
-        private void laucherToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            client_laucher addForm = new client_laucher();
-            addForm.ShowDialog();
-        }
+      
 
 
 

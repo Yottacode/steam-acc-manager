@@ -35,3 +35,15 @@ C:\Users\nomax\source\repos\Steam Account Manager\Steam Account Manager\obj\Rele
 C:\Users\nomax\source\repos\Steam Account Manager\Steam Account Manager\obj\Release\Steam Account Manager.csproj.CoreCompileInputs.cache
 C:\Users\nomax\source\repos\Steam Account Manager\Steam Account Manager\obj\Release\Steam Account Manager.exe
 C:\Users\nomax\source\repos\Steam Account Manager\Steam Account Manager\obj\Release\Steam Account Manager.pdb
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\obj\Release\Steam Account Manager.csproj.AssemblyReference.cache
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\obj\Release\Steam Account Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\obj\Release\Steam_Account_Manager.MainForm.resources
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\obj\Release\Steam_Account_Manager.AddAccountForm.resources
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\obj\Release\Steam_Account_Manager.Properties.Resources.resources
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\obj\Release\Steam Account Manager.csproj.GenerateResource.cache
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\obj\Release\Steam Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\obj\Release\Steam Account Manager.exe
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\obj\Release\Steam Account Manager.pdb
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\bin\Release\Steam Account Manager.exe.config
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\bin\Release\Steam Account Manager.exe
+C:\Users\nomax\source\repos\Yottacode\steam-acc-manager\Steam Account Manager\bin\Release\Steam Account Manager.pdb
